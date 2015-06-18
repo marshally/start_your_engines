@@ -1,7 +1,10 @@
 engines:
   rubocop:
     enabled: true
-
+  coffeelint:
+    enabled: true
+  jshint:
+    enabled: true
 ratings:
   paths:
   - app/**
