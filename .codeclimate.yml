@@ -1,3 +1,2 @@
 engines:
   - rubocop: true
-  - jshint: true
