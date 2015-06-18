@@ -1,2 +1,8 @@
 engines:
-- rubocop: true
+  rubocop:
+    enabled: true
+
+ratings:
+  paths:
+  - app/**
+  - lib/**
